@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: petclinic
-        image: 3.37.58.236:8000/repo-spring-petclinic-rest/spring-petclinic-rest:latest
+        image: 3.37.98.34:8000/repo-spring-petclinic-rest/spring-petclinic-rest:latest
         ports:
         - containerPort: 9966
       imagePullSecrets:
